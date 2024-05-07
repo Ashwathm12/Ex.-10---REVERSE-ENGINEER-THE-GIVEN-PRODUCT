@@ -31,16 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![doorstoper](https://github.com/akash7812/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146819826/dcd9d287-0078-4c9e-a90a-2d7b876fdf17)
-
-
+![image](https://github.com/22009011/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343461/9e2fb11e-0b22-44c4-b964-b413bb704914)
 
 ### Output:
-![door](https://github.com/akash7812/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146819826/9f59c28c-f3d6-4fc3-9706-399cc70d4436)
+![image](https://github.com/22009011/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118343461/4d37b9ab-87ea-46f3-8138-7902f7444c27)
 
 
-
-### Name: M.Ashwath
+### Name:M.Ashwath
 ### Register Number:212223230023
 
 ## RESULT:
