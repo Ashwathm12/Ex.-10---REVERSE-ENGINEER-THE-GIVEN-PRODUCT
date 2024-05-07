@@ -31,12 +31,17 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![doorstoper](https://github.com/akash7812/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146819826/dcd9d287-0078-4c9e-a90a-2d7b876fdf17)
+
+
 
 ### Output:
+![door](https://github.com/akash7812/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/146819826/9f59c28c-f3d6-4fc3-9706-399cc70d4436)
 
 
-### Name:
-### Register Number:
+
+### Name: M.Ashwath
+### Register Number:212223230023
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
